@@ -12,3 +12,6 @@ Detailview
 ![](https://github.com/svenfeld/Facebook_Activity_PG/blob/main/Detailview.png)
 
 Open the 'index.html' in a browser for interaction :)
+
+
+Credits to https://github.com/isellsoap/deutschlandGeoJSON for the geojson of germany
